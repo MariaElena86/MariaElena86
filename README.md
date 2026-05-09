@@ -1,3 +1,6 @@
+![Banner](https://github.com/MariaElena86/MariaElena86/blob/main/github-header-banner.png)
+
+
 # 👋 Hola, soy María Elena
 
 💻 Python Developer con experiencia en QA Automation  
