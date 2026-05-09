@@ -41,7 +41,8 @@
 # 📫 Contacto
 
 📧 Email: rubyemx5@gmail.com  
-🔗 LinkedIn: [María Elena Carralero Peña](https://www.linkedin.com/in/mar%C3%ADa-elena-carralero-pe%C3%B1a-4393008a)
+🔗 LinkedIn: [María Elena Carralero Peña](https://www.linkedin.com/in/maria-carralero-pe%C3%B1a)
+
 
 ---
 
