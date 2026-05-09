@@ -2,25 +2,13 @@
 
 
 # 👋 Hola, soy María Elena
+# 🌍 Portfolio
+- 💻 Experiencia en desarrollo de software con Python y JavaScript
+- 💻 Especialista en en automatización de pruebas e2e con Cypress
+- 📊 Actualmente cursando formación en Ciencia de Datos e Inteligencia Artificial  
+- 🚀 Apasionada por el aprendizaje continuo y los proyectos prácticos
 
-💻 Python Developer con experiencia en QA Automation  
-🧪 Especialista en automatización de pruebas  
-📊 En formación en Ciencia de Datos e Inteligencia Artificial  
-🚀 Apasionada por el aprendizaje continuo y los proyectos prácticos
-
----
-
-# 🚀 Sobre mí
-
-Me gusta mantenerme en constante aprendizaje y seguir desarrollando mis habilidades profesionales.  
-
-Aunque durante algunos años me he dedicado al cuidado de mi familia como madre a tiempo completo, mi interés por el estudio y la superación personal nunca ha cambiado.
-
-Actualmente estoy enfocada en seguir creciendo profesionalmente en el área de tecnología, combinando mi experiencia en QA con la Ciencia de Datos y la Inteligencia Artificial.
-
----
-
-## 🚀 Actualmente enfocada en
+## ✨ Actualmente enfocada en
 
 * Cursando un Máster en Ciencia de Datos e Inteligencia Artificial
 * Reforzando mis conocimientos en Python y SQL
@@ -41,8 +29,16 @@ Actualmente estoy enfocada en seguir creciendo profesionalmente en el área de t
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F7DF1E?style=for-the-badge&logo=powerbi&logoColor=black)
 
+---
 
-# 📈 Contacto
+# 👩 Sobre mí
+
+- Me gusta mantenerme en constante aprendizaje y seguir desarrollando mis habilidades profesionales.
+- Aunque durante algunos años me he dedicado al cuidado de mi familia como madre a tiempo completo, mi interés por el estudio y la superación personal nunca ha cambiado.
+- Actualmente estoy enfocada en seguir creciendo profesionalmente en el área de tecnología, combinando mi experiencia en QA con la Ciencia de Datos y la Inteligencia Artificial.
+
+---
+# 📫 Contacto
 
 📧 Email: rubyemx5@gmail.com  
 🔗 LinkedIn: [María Elena Carralero Peña](https://www.linkedin.com/in/mar%C3%ADa-elena-carralero-pe%C3%B1a-4393008a)
