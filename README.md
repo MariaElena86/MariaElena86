@@ -1,6 +1,6 @@
 ![Banner](https://github.com/MariaElena86/MariaElena86/blob/main/github-header-banner.png)
 
-# 🌍 Portfolio
+## 🌍 Portfolio
 - 💻 Experiencia en desarrollo de software con Python y JavaScript
 - 💻 Especialista en en automatización de pruebas e2e con Cypress
 - 📊 Actualmente cursando formación en Ciencia de Datos e Inteligencia Artificial  
