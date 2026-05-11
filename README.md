@@ -1,4 +1,4 @@
-![Banner](https://github.com/MariaElena86/MariaElena86/blob/main/github-header-banner.png)
+![Banner](https://github.com/MariaElena86/MariaElena86/blob/main/github-header-banner%20(5).png)
 
 ## 🌍 Portfolio
 - 💻 Experiencia en desarrollo de software con Python y JavaScript
