@@ -31,7 +31,7 @@
 
 # 👩 Sobre mí
 
-Con más de 7 años en el sector tecnológico, he transitado con éxito desde el desarrollo de software (JS/Python) hasta el QA Automation, especializándome en la creación de entornos de prueba robustos con Cypress.
+Con más de 7 años en el sector tecnológico, he transitado con éxito desde el desarrollo de software (JS/Python) hasta el QA Automation, especializándome en la creación de entornos de prueba con Cypress.
 
 Mi mentalidad analítica me ha llevado a dar el siguiente paso: la especialización en Data Science e IA. Actualmente curso un Máster en Evolve Academy para dominar herramientas de análisis de datos (SQL, Power BI, Python) y modelos de Inteligencia Artificial. Mi objetivo es aportar una visión basada en datos a la calidad del software y el desarrollo de productos inteligentes.
 
