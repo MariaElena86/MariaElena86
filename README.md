@@ -31,9 +31,19 @@
 
 # 👩 Sobre mí
 
-- Me gusta mantenerme en constante aprendizaje y seguir desarrollando mis habilidades profesionales.
-- Aunque durante algunos años me he dedicado al cuidado de mi familia como madre a tiempo completo, mi interés por el estudio y la superación personal nunca ha cambiado.
-- Actualmente estoy enfocada en seguir creciendo profesionalmente en el área de tecnología, combinando mi experiencia en QA con la Ciencia de Datos y la Inteligencia Artificial.
+Con más de 7 años en el sector tecnológico, he transitado con éxito desde el desarrollo de software (JS/Python) hasta el QA Automation, especializándome en la creación de entornos de prueba robustos con Cypress.
+
+Mi mentalidad analítica me ha llevado a dar el siguiente paso: la especialización en Data Science e IA. Actualmente curso un Máster en Evolve Academy para dominar herramientas de análisis de datos (SQL, Power BI, Python) y modelos de Inteligencia Artificial. Mi objetivo es aportar una visión basada en datos a la calidad del software y el desarrollo de productos inteligentes.
+
+## ¿Qué aporto?
+
+- Experiencia técnica: Sólida base en programación y automatización de procesos.
+
+- Adaptabilidad: Capacidad de aprendizaje continuo (transición de Dev a QA y ahora a Data Science).
+
+- Visión 360º: Entiendo la ingeniería desde la construcción, la validación y el análisis de resultados.
+
+En búsqueda de nuevos retos que desafíen mis habilidades técnicas y analíticas.
 
 ---
 # 📫 Contacto
