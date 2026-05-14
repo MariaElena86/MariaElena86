@@ -45,45 +45,12 @@ Mi mentalidad analítica me ha llevado a dar el siguiente paso: la especializaci
 
 En búsqueda de nuevos retos que desafíen mis habilidades técnicas y analíticas.
 
----
+-----------
 # 📫 Contacto
 
 📧 Email: rubyemx5@gmail.com  
 🔗 LinkedIn: [María Elena Carralero Peña](https://www.linkedin.com/in/maria-carralero-pe%C3%B1a)
 
-
----
-
-
-
-
-Por terminar
---------------------------------------------------
-# 📌 Proyectos Destacados
-
-## 📊 Student Ranking System
-- Limpieza y validación de datos
-- Uso de `map`, `filter` y `reduce`
-- Ordenación con funciones lambda
-- Manejo de listas y diccionarios
-
----
-
-## 🤖 Automatización QA
-- Automatización de pruebas
-- Scripts en Python
-- Mejora de procesos repetitivos
-- Testing funcional
-
----
-
-## 📈 Análisis de Datos
-- Uso de NumPy y Pandas
-- Limpieza de datasets
-- Estadísticas básicas
-- Transformación de datos
-
----
 
 # 📈 GitHub Stats
 
