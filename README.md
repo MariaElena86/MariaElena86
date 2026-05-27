@@ -8,12 +8,12 @@
 
 ## ✨ Actualmente enfocada en
 
-* Cursando un Máster en Ciencia de Datos e Inteligencia Artificial
-* Reforzando mis conocimientos en Python y SQL
-* Aprendiendo nuevas tecnologías aplicadas a la Ciencia de Datos
-* Desarrollo de habilidades en herramientas como Power BI
-* Profundizando en librerías de Python como Pandas y NumPy para análisis y manipulación de datos
-* Continuando mi formación en automatización, análisis de datos e Inteligencia Artificial
+* Cursando un Máster en Ciencia de Datos e Inteligencia Artificial.
+* Profundizando en Python para aprender como usarlo en el análisis de datos.
+* Aprendiendo nuevas librerias como Pandas y NumPy para el análisis y manipulación de datos.
+* Reforzando y profundizando mis conocimientos en SQL.
+* Aprendiendo herramientas para el análisis y manipulación de datos como Power BI.
+* Reforzando el aprendizaje del uso de Inteligencia Artificial.
   
 ---
 
