@@ -31,19 +31,15 @@
 
 # 👩 Sobre mí
 
-Con más de 7 años en el sector tecnológico, he transitado con éxito desde el desarrollo de software (JS/Python) hasta el QA Automation, especializándome en la creación de entornos de prueba con Cypress.
-
-Mi mentalidad analítica me ha llevado a dar el siguiente paso: la especialización en Data Science e IA. Actualmente curso un Máster en Evolve Academy para dominar herramientas de análisis de datos (SQL, Power BI, Python) y modelos de Inteligencia Artificial. Mi objetivo es aportar una visión basada en datos a la calidad del software y el desarrollo de productos inteligentes.
+Con más de 7 años en el sector tecnológico, he transitado con éxito desde el desarrollo de software (con JavaScript y Python principalmente, pero también he trabajado con otros lenguajes) hasta la Automatización de pruebas(especializándome en la creación de prueba e2e con Cypress). Mis deseos de superación y de ser mejor profesional me ha llevado a dar un siguiente paso en el aprendizaje del Análisis de datos y el uso de la IA. Actualmente curso un Máster en **Evolve Academy** para dominar herramientas de análisis de datos (SQL, Power BI, Python) y modelos de Inteligencia Artificial.
 
 ## ¿Qué aporto?
 
-- Experiencia técnica: Sólida base en programación y automatización de procesos.
+- Base técnica: Mi experiencia en desarrollo de software y automatización de pruebas (QA) me ha dado una buena base para entender cómo se construyen las aplicaciones. Actualmente, mi enfoque es integrar el uso de herramientas de IA y aprender sobre el análisis de datos. Esta base técnica me ayuda a evaluar las soluciones que encuentro, entender qué hay detrás y validar que los resultados tengan sentido.
+- Adaptabilidad: A lo largo de mi carrera he pasado por distintas áreas, como desarrollo, QA y ahora mi formación en el Máster de Data Science e IA. Me siento cómoda en este proceso de transición, aprendiendo constantemente y enfrentándome a nuevos retos, donde el aprendizaje basado en la práctica es clave.
+- Visión global: Entiendo el proceso de software desde varios puntos: la construcción, la validación y el análisis. Esto me ayuda a ver el panorama completo, no solo desde la parte técnica, sino también considerando la calidad y actualmente aprendiendo cómo el análisis de los datos pueden ayudarnos a tomar mejores decisiones.
 
-- Adaptabilidad: Capacidad de aprendizaje continuo (transición de Dev a QA y ahora a Data Science).
-
-- Visión 360º: Entiendo la ingeniería desde la construcción, la validación y el análisis de resultados.
-
-En búsqueda de nuevos retos que desafíen mis habilidades técnicas y analíticas.
+En búsqueda de nuevos retos y oportunidades que desafíen mis habilidades técnicas y analíticas.
 
 -----------
 # 📫 Contacto
