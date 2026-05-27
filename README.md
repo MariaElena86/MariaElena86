@@ -47,17 +47,4 @@ En búsqueda de nuevos retos y oportunidades que desafíen mis habilidades técn
 📧 Email: rubyemx5@gmail.com  
 🔗 LinkedIn: [María Elena Carralero Peña](https://www.linkedin.com/in/maria-carralero-pe%C3%B1a)
 
-
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
-
----
-
----
-
-# 🚀 Filosofía
-
-> “Aprender construyendo proyectos reales es la mejor forma de crecer profesionalmente.”
+### ***“Aprender construyendo proyectos reales es la mejor forma de crecer profesionalmente.”***
