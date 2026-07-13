@@ -12,6 +12,7 @@
 * Profundizando en Python para aprender como usarlo en el análisis de datos.
 * Aprendiendo nuevas librerias como Pandas y NumPy para el análisis y manipulación de datos.
 * Reforzando y profundizando mis conocimientos en SQL.
+* Aprendiendo a realizar descripcion estadistica, aplicar metodos de regresion lineal y multiple, y conceptos basicos sobre series temporales.
 * Aprendiendo herramientas para el análisis y manipulación de datos como Power BI.
 * Reforzando el aprendizaje del uso de Inteligencia Artificial.
   
