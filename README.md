@@ -1,21 +1,19 @@
 ![Banner](https://github.com/MariaElena86/MariaElena86/blob/main/github-header-banner%20(5).png)
 
 ## 🌍 Portfolio
+- 📊 Actualmente cursando formación en Ciencia de Datos e Inteligencia Artificial 
 - 💻 Experiencia en desarrollo de software con Python y JavaScript
-- 💻 Especialista en en automatización de pruebas e2e con Cypress
-- 📊 Actualmente cursando formación en Ciencia de Datos e Inteligencia Artificial  
+- 💻 Especialista en en automatización de pruebas e2e con Cypress 
 - 🚀 Apasionada por el aprendizaje continuo y los proyectos prácticos
 
 ## ✨ Actualmente enfocada en
-
 * Cursando un Máster en Ciencia de Datos e Inteligencia Artificial.
-* Profundizando en Python para aprender como usarlo en el análisis de datos.
-* Aprendiendo nuevas librerias como Pandas y NumPy para el análisis y manipulación de datos.
-* Reforzando y profundizando mis conocimientos en SQL.
+* Aprendiendo conceptos de análisis de datos con ejemplos prácticos con PowerBI y Fabric.
 * Aprendiendo a realizar descripcion estadistica, aplicar metodos de regresion lineal y multiple, y conceptos basicos sobre series temporales.
-* Aprendiendo herramientas para el análisis y manipulación de datos como Power BI.
-* Reforzando el aprendizaje del uso de Inteligencia Artificial.
-  
+* Reforzando conocimientos en SQL para aprender como usarlo en el análisis de datos.
+* Reforzando  conocimientos en Python para aprender como usarlo en el análisis de datos.
+* Aprendiendo nuevas librerias como Pandas y NumPy para el análisis y manipulación de datos.
+* Reforzando el aprendizaje del uso de Inteligencia Artificial.  
 ---
 
 # 🛠 Tecnologías
