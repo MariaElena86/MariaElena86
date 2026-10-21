@@ -13,7 +13,9 @@
 * Reforzando conocimientos en SQL para aprender como usarlo en el análisis de datos.
 * Reforzando  conocimientos en Python para aprender como usarlo en el análisis de datos.
 * Aprendiendo nuevas librerias como Pandas y NumPy para el análisis y manipulación de datos.
-* Reforzando el aprendizaje del uso de Inteligencia Artificial.  
+* Aprendiendo las bases de Machine Learning y Deep Learning.
+* Aprendiendo herramientas de IA Generativa.
+* Reforzando el aprendizaje del uso de Inteligencia Artificial .  
 ---
 
 # 🛠 Tecnologías
@@ -30,7 +32,7 @@
 
 # 👩 Sobre mí
 
-Con más de 7 años en el sector tecnológico, he transitado con éxito desde el desarrollo de software (con JavaScript y Python principalmente, pero también he trabajado con otros lenguajes) hasta la Automatización de pruebas(especializándome en la creación de prueba e2e con Cypress). Mis deseos de superación y de ser mejor profesional me ha llevado a dar un siguiente paso en el aprendizaje del Análisis de datos y el uso de la IA. Actualmente curso un Máster en **Evolve Academy** para dominar herramientas de análisis de datos (SQL, Power BI, Python) y modelos de Inteligencia Artificial.
+Con más de 7 años en el sector tecnológico, he transitado con éxito desde el desarrollo de software (con JavaScript y Python principalmente, pero también he trabajado con otros lenguajes) hasta la Automatización de pruebas(especializándome en la creación de prueba e2e con Cypress). Mis deseos de superación y de ser mejor profesional me ha llevado a dar un siguiente paso en el aprendizaje del Análisis de datos y el uso de la IA. Actualmente curso un Máster en **Evolve Academy** para dominar herramientas de análisis de datos (SQL, Power BI, Python, Estadistica, Machine Learning, IA Generativa) y modelos de Inteligencia Artificial.
 
 ## ¿Qué aporto?
 
